@@ -5,4 +5,4 @@
 +   Amazon linux 2 Ami OS 
 +   master t2.medium and worker t2.micro
 ## Installing docker in all the nodes
-~ yum  install  docker  -y
+    yum  install  docker  -y
